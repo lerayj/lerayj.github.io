@@ -6,7 +6,7 @@ summary:    Comment éviter de se perdre dans la jungle du Web Js
 categories: javascript
 ---
 
-#Intro
+##Intro
 Nous sommes à mon avis dans une forte periode de transition dans le web.
 
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
@@ -15,7 +15,7 @@ Ce que nous appellerons les __"hypsters"__ du code, qui utilisent toutes les der
 
 D'un coté le Web __"a l'ancienne"__, avec tous ces framwork MVC que ce soit en php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaite pas forcément ce lancer dans autres chose (mais qui sortent quand même un produit; et souvent mieux maîtrisé)
 
-#Welcome back to the WebDev!
+##Welcome back to the WebDev!
 
 ![desk](http://i.imgur.com/KyK6HUj.gif){:style="float: left; height:150px;margin-top: 10px;margin-right: 20px;"}
 
@@ -28,7 +28,7 @@ Je vais donc vous parler de ma transition jusqu'a aujourd'hui, en tant que dev F
 
 Ca à été a la fois passionant et déprimant.
 
-#Un jour je serai le plus grand <del>dresseur</del> hypster
+##Un jour je serai le plus grand <del>dresseur</del> hypster
 Js, Node,... Tous le monde en parle, c'est à la mode, mais je n'ai absolument rien suivi. 
 Merde moi aussi je veux être cool!
 
@@ -68,7 +68,7 @@ Et c'est la que le cauchemar commence.
   <footer><cite title="Un WebDev Hypster à un old school">Un noob anonyme en js</cite></footer>
 </blockquote>
 
-#Fuck it. Just Fuck dat shit.
+##Fuck it. Just Fuck it.
 
 Des outils dans l'univers js, ils y en a des milliers, voir millions. Beaucoup. Beaucoup trop?
 
@@ -131,7 +131,7 @@ Useless, ne perd pas ton temps avec des conneries comme ca, tu va encor y passer
 
  Et bien, ce gars la c'est moi. Peut-être vous aussi.
 
-#La solution ou du moins
+##La solution ou du moins
 
 Est ce que j'utilise déjà un tools similaire qui serai voué a être remplacé par
 est ce que la hype me semble finallement justifié? Les apport par rapport a l'existant sont ils vraiment énormes? 
@@ -149,6 +149,6 @@ Utilisez ce qu'il vous faut quand il vous faut. Je vous recommande vraiment d'in
   <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un old school</cite></footer>
 </blockquote>
 
-#Next
+##Next
 
 Je parlerai des framework/plateforme/grosses libs de l'écosystème js dans un autre posts, comment j'ai fais mes choix sur les tchnos que j'ai décider d'utiliser et d'étudier
