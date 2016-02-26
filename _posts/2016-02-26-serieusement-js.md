@@ -6,7 +6,7 @@ summary:    Comment éviter de se perdre dans la jungle du Web Js
 categories: javascript
 ---
 
-##Intro
+<h2>Intro</h2>
 Nous sommes à mon avis dans une forte periode de transition dans le web.
 
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
@@ -15,7 +15,7 @@ Ce que nous appellerons les __"hypsters"__ du code, qui utilisent toutes les der
 
 D'un coté le Web __"a l'ancienne"__, avec tous ces framwork MVC que ce soit en php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaite pas forcément ce lancer dans autres chose (mais qui sortent quand même un produit; et souvent mieux maîtrisé)
 
-##Welcome back to the WebDev!
+<h2>Welcome back to the WebDev!</h2>
 
 ![desk](http://i.imgur.com/KyK6HUj.gif){:style="float: left; height:150px;margin-top: 10px;margin-right: 20px;"}
 
@@ -28,14 +28,15 @@ Je vais donc vous parler de ma transition jusqu'a aujourd'hui, en tant que dev F
 
 Ca à été a la fois passionant et déprimant.
 
-##Un jour je serai le plus grand <del>dresseur</del> hypster
+<h2>Un jour je serai le plus grand <del>dresseur</del> hipster</h2>
+
 Js, Node,... Tous le monde en parle, c'est à la mode, mais je n'ai absolument rien suivi. 
 Merde moi aussi je veux être cool!
 
 Téléchargement/Installation/setup de node.js
 Swipe sur Chrome, on va Googler un peu comment commencer.
 
-###L'écosysytème. Such Wow.
+<h3>L'écosysytème. Such Wow.</h3>
 
 Des technos sont jeunes, des noms de libs/packages rigolos à gogo, de nouveaux projets sortent sur github tous les jours,...
 Hacker News feed de tous ces tools/lib/framework/, il y en à tous les jours en front page: Chips.js, Espelette.js, Hammer.js,... 
@@ -43,7 +44,7 @@ Hacker News feed de tous ces tools/lib/framework/, il y en à tous les jours en 
 (ne cherchez pas j'ai mis les mots qui me passai par la tête, mais c'est bien possible que ca existe!)
 
 
-###Le language
+<h3>Le language</h3>
 
 Le language en lui même est a part; on ne peux pas parlé de programmation objets comme dans les autre languages, ce n'est pas non plu du procédural. 
 
@@ -68,7 +69,7 @@ Et c'est la que le cauchemar commence.
   <footer><cite title="Un WebDev Hypster à un old school">Un noob anonyme en js</cite></footer>
 </blockquote>
 
-##Fuck it. Just Fuck it.
+<h2>Fuck it. Just Fuck it.</h2>
 
 Des outils dans l'univers js, ils y en a des milliers, voir millions. Beaucoup. Beaucoup trop?
 
@@ -110,7 +111,7 @@ Cela ne sont que des tools pour aider a construire votre app.
 
 Pour certains, qui y sont maintenant habitué, cela peut surement paraitre idiot, mais quand on comment rien, je dit bien RIEN n'est évident. Dans un prochain post, je commenterai donc les different "types" d'outils.
 
-##L'histoire d'un dev idiot
+<h2>L'histoire d'un dev idiot</h2>
 
 Je vais vous raconter une petite histoire (ce comportement est peux être stupide, peut être ne verrez vous pas se que je parle,... mais je suis sur que certaines personnes se reconnaitrons!):
 
@@ -131,7 +132,7 @@ Useless, ne perd pas ton temps avec des conneries comme ca, tu va encor y passer
 
  Et bien, ce gars la c'est moi. Peut-être vous aussi.
 
-##La solution ou du moins
+<h2>La solution ou du moins</h2>
 
 Est ce que j'utilise déjà un tools similaire qui serai voué a être remplacé par
 est ce que la hype me semble finallement justifié? Les apport par rapport a l'existant sont ils vraiment énormes? 
@@ -149,6 +150,6 @@ Utilisez ce qu'il vous faut quand il vous faut. Je vous recommande vraiment d'in
   <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un old school</cite></footer>
 </blockquote>
 
-##Next
+<h2>Next</h2>
 
 Je parlerai des framework/plateforme/grosses libs de l'écosystème js dans un autre posts, comment j'ai fais mes choix sur les tchnos que j'ai décider d'utiliser et d'étudier
