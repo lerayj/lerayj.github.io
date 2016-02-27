@@ -85,15 +85,15 @@ text:
   index:
     coming_soon: 'Coming soon...'
   contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
+    email:    'Addresse mail'
+    content:  'Que voulez vous me dire?'
     subject:  'New submission!'
-    submit:   'Say Hello'
+    submit:   'Dite Bonjour'
     ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+      sending:  'envoi en cours ...'
+      sent:     'Message envoyé!'
+      error:    'Erreur!'
+  thanks: 'Merci de m avoir contacter. Je vous répondrai dès que possible.'
   og_locale: 'en_US'
 
 # Build settings
