@@ -19,8 +19,8 @@ bing_verification:
 # Optional features
 animated:             false
 show_related_posts:   false
-show_post_footers:    false
-show_social_icons:    false
+show_post_footers:    true
+show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: false
 extended_fonts: false
@@ -36,7 +36,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: https://github.com/lerayj
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -51,36 +51,36 @@ paypal_url:
 flattr_button:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
 share_facebook: false
-share_twitter: false
+share_twitter: true
 share_googleplus: false
-share_linkedin: false
+share_linkedin: true
 share_digg: false
 share_tumblr: false
-share_reddit: false
+share_reddit: true
 share_stumbleupon: false
 share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Nouveaux'
+    older: 'Anciens'
   share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
+    text:         'Partager ce billet!'
+    facebook:     'Partager sur Facebook'
+    twitter:      'Partager sur Twitter'
+    googleplus:   'Partager sur Google+'
+    linkedin:     'Partager sur LinkedIn'
+    digg:         'Partager sur Digg'
+    tumblr:       'Partager sur Tumblr'
+    reddit:       'Partager sur Reddit'
+    stumbleupon:  'Partager sur StumbleUpon'
+    hackernews:   'Partager sur Hacker News'
   post:
-    updated:        'Updated'
-    minute_read:    'minute read'
+    updated:        'Mis à jour'
+    minute_read:    'minutes de lecture'
     related_posts:  'Related Posts'
   index:
     coming_soon: 'Coming soon...'
