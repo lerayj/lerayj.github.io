@@ -14,7 +14,7 @@ Mais j'ai depuis l'impression de voir deux clans; ou tout du moins type de devel
 
 Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos avec qui vous vous sentez idiot/dépassé quand vous parlez avec eux.
 
-D'un coté le Web __"à l'ancienne"__, avec tous ces frameworks MVC classiques que ce soit en php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
+Opposé aux devs Web __"à l'ancienne"__, avec tous ces frameworks MVC classiques que ce soit en php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
 
 <h2>Welcome back to the WebDev!</h2>
 
@@ -36,9 +36,9 @@ Téléchargement, Installation, setup de node.js, swipe sur Chrome, on va Google
 
 <h3>L'écosystème. Such Wow.</h3>
 
-Des technos sont jeunes, des noms de libs/packages rigolos à gogo, des projets js sortent sur **GitHub** tous les jours,...
+Les technos sont jeunes, des noms de libs/packages rigolos à gogo, des projets super souvent sur **GitHub**,...
 
-**Hacker News** regorge tous les jours d'articles annoncant la sortie de ces tools/lib/framework/...
+**Hacker News** regorge d'articles annoncant la sortie de ces tools/lib/framework.
 Il y en à tous les jours en front page: *Chips.js*, *Espelette.js*, *Hammer.js*,... 
 
 (ne cherchez pas j'ai mis les premiers mots qui me passai par la tête, mais c'est bien possible qu'ils existent!)
@@ -46,25 +46,28 @@ Il y en à tous les jours en front page: *Chips.js*, *Espelette.js*, *Hammer.js*
 
 <h3>Le language</h3>
 
-Avant d'aller au coeur du problème, parlons rapidement du *js*. 
+Avant de passer au coeur du problème, parlons rapidement du *js*. 
 
-Pour ceux qui comme moi l'utilisai uniquement avec **Jquery** pour des animations et validations sans vraiment s'interesser ou comprendre le language, il va y avoir de quoi être surpris.
+Pour ceux qui, comme moi, l'utilisai uniquement avec **Jquery** pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le language, il y a de quoi être surpris.
 
-Le fonctionnement du language en lui même est à part; on ne peux pas vraiment parler de *Programmation Objet* comme dans les autres languages ni de *procédural*.
+Le fonctionnement du language en lui même est à part; on ne peux pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
 
-
+Non, le *js* est à part des autres languages.
 
 Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** on l'air d'être random, des **callback** dans tous les sens...
 
-*(Si ca interesse je pourrai faire un billet sur les principaux trucs bizarres/différents du js par rapport à d'autres languages)*
+<div style="text-align: center">
+<img src="http://i.giphy.com/HwmV5U348FdKM.gif">
+</div>
+*(Si ca en interesse je pourrai faire un billet sur les principaux trucs bizarres/différents du js qui m'ont fait galérer au début)*
 
 Il va falloir un peu de temps pour s'adapter.
 
-Vous trouverez énormement de bataille sur le Web à son propos. *Pros* contre *cons* Js, certains trouve ca trop verbeux, d'autres trop broken, d'autre trop libre,... 
+Vous trouverez énormement de bataille sur le Web à son propos. *Pros* / *cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
 
-Au final on aime ou on n'aime pas. Chacun a sont avis, pour ma part, **j'adère**. Mais le sujet n'est pas la.
+Au final on aime ou on n'aime pas. A chacun sont avis, pour ma part, **j'adère**. Mais le sujet n'est pas la.
 
-J'ai abordé le Js comme je l'ai fais avec tous les autres languages; par de plus ou moins longues recherches sur Google des best practices, de ce qui se fait, des outils indispensables faisant l'unanimité.
+J'ai abordé le Js comme je l'ai fais avec tous les autres languages; par de plus ou moins longues recherches sur Google des best practices ainsi que les outils indispensables qui font l'unanimité dans la communauté.
 
 Et c'est la que le **cauchemar commence**. 
 
@@ -74,7 +77,7 @@ Et c'est la que le **cauchemar commence**.
   <p>
  La marche des vertueux est semée d’obstacles qui sont les entreprises égoïstes que fait sans fin surgir l’œuvre du Malin.Béni soit-il l’homme de bonne volonté qui, au nom de la charité, se fait le berger des faibles qu’il guide dans la vallée d’ombre de la mort et des larmes… [...]
   </p>
-  <footer><cite title="Un WebDev Hypster à un old school">Un noob anonyme en js</cite></footer>
+  <footer><cite title="Un noob anonyme en js">Un noob anonyme en js</cite></footer>
 </blockquote>
 
 <h2>Fuck it. Just Fuck it.</h2>
@@ -114,10 +117,11 @@ Bref, ne nous dispersons pas. Voila en 2 minutes de recherches ce que j'ai trouv
 * CoffeeScript
 * ...
 
-
-![desk](http://i.imgur.com/lSt1P.gif)
-![desk](https://media.giphy.com/media/Lcn0yF1RcLANG/giphy.gif){:style="height: 173px;"}
-![desk](https://media.giphy.com/media/StdULHPSni728/giphy.gif){:style="height: 173px;"}
+<div style="text-align: center">
+	<img src="http://i.imgur.com/lSt1P.gif" />
+	<img src="https://media.giphy.com/media/Lcn0yF1RcLANG/giphy.gif" style="height: 173px;"/>
+	<img src="https://media.giphy.com/media/StdULHPSni728/giphy.gif" style="height: 173px;" />
+</div>
 
 <h4>C'est quoi ce bordel?!</h4> 
 
@@ -183,14 +187,17 @@ Bob retourne sur Hacker News et...
 
 <b>Wait; c'est quoi ce nouveau tool *Milou.js* ?! 1000 stars sur GitHub en 3 jours, ... </b>
 
-![desk](https://media.giphy.com/media/b1ys7yyXBDG0w/giphy.gif)
+<div style="text-align: center;">
+	<img src="https://media.giphy.com/media/b1ys7yyXBDG0w/giphy.gif">
+	<p>	Et bien <b>Bob</b>, c'est <b>moi</b>.</p>
 
-Et bien *Bob*, c'est *moi*.
+</div>
 
 **Dat Twist!**
 
-Peut-être vous aussi (enfin j'espère que certains ce reconnaitrons!).
-Et encore j'ai donné un cas ou je connais et utilise déjà un équivalent. Mais je ne vous raconte pas le nombre de fois ou je n'ai même pas saisi le but du tool mais que j'ai quand même essayer d'implémenter!
+Et peut-être vous aussi (enfin j'espère que certains ce reconnaitrons!).
+
+Si dans l'histoire je connais au moins l'usage du produit, je ne vous raconte pas le nombre de fois ou je n'ai même pas saisi le but du tool mais tout de même essayer d'implémenter!
 *(brainless over 9000)*
 
 
