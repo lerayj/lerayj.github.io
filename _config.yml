@@ -88,7 +88,7 @@ text:
     email:    'Addresse mail'
     content:  'Que voulez vous me dire?'
     subject:  'New submission!'
-    submit:   'Dite Bonjour'
+    submit:   'Envoyer'
     ajax:
       sending:  'envoi en cours ...'
       sent:     'Message envoyé!'
