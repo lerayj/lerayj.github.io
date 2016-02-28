@@ -38,7 +38,7 @@ Téléchargement, Installation, setup de node.js, swipe sur Chrome, on va Google
 
 Les technos sont jeunes, des noms de libs/packages rigolos à gogo sur **Npm**, des projets sortent super souvent sur **GitHub**,...
 
-**Hacker News** regorge d'articles annoncant la sortie de ces tools/lib/framework.
+**Hacker News** regorge d'articles annoncant la sortie de ces tools/librairies/frameworks.
 Il y en à tous les jours en front page: *Chips.js*, *Espelette.js*, *Hammer.js*,... 
 
 (ne cherchez pas j'ai mis les premiers mots qui me passai par la tête, mais c'est bien possible qu'ils existent!)
@@ -46,7 +46,7 @@ Il y en à tous les jours en front page: *Chips.js*, *Espelette.js*, *Hammer.js*
 
 <h3>Le language</h3>
 
-Avant de passer au coeur du problème, parlons rapidement du *js*. 
+Avant de passer au coeur du problème, parlons rapidement du *Js*. 
 
 Pour ceux qui, comme moi, l'utilisai uniquement avec **Jquery** pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le language, il y a de quoi être surpris.
 
@@ -59,7 +59,7 @@ Non, définitivement le *js* ne ressemble pas vraiment aux autres languages.
 <div style="text-align: center">
 <img src="http://i.giphy.com/HwmV5U348FdKM.gif">
 </div>
-*(Si ca en interesse je pourrai faire un billet sur les principaux trucs bizarres/différents du js qui m'ont fait galérer au début)*
+*(Si ca en interesse je pourrai faire un billet sur les principales bizarreries/différences du js qui m'ont fait galérer au début)*
 
 Il va falloir un peu de temps pour s'adapter.
 
@@ -137,7 +137,7 @@ Si vous voulez avoir une belle stack; **il vous devez les utiliser**.
 
 **FAUX.**
 
-Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée ainsi le rôle de chaque composant, ce q'ils peuvent vous apporter (ou non) histoire de clarifier et démystifier tous cela*
+Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée ainsi le rôle de chaque composant, ce qu'ils peuvent vous apporter (ou non) histoire de clarifier et démystifier tous cela.
 
 De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la prog!
 
@@ -147,9 +147,9 @@ Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme,
 Car **rien**, je dit bien **RIEN** n'est évident. 
 
 Je soupçonne beaucoup de développeur d'être des soldats au service de la hype.
-Avoir fait le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeuret crier au génie ne me semble pas être quelque chose de sain. 
+Fait le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeur et déclarer que c'est une "révolution" ne me semble pas être quelque chose de sain. 
 
-Je peux me tromper. Peux être que cette pensée émane de ma jalousie envers ceux qui savent, benchmarkent et connaissent de A à Z un outil avant même que j'en est entendu parler.
+Je peux me tromper. Peux être que cette pensée émane de ma jalousie envers celui qui connais, benchmark et sait utiliser de A à Z un outil avant même que j'en ai entendu parler.
 
 <h2>Bob do Hype Web Programming. Bob is smart.</h2>
 
@@ -200,7 +200,7 @@ Parceque oui, la nouveauté, c'est exitant. Mais dans le dev ca peux vite deveni
 
 Le temps que nous sommes censé ganger grâce à un nouveau système n'arrive que après avoir passé un **certain point** de la **learning curve**.
 
-Et cela est plus ou moins long.
+Et cela peux être plus ou moins long.
 
 Quand l'évolution est plus rapide que le temps nécessaire à atteindre ce fameux capital de compétence, il y a un problème.
 
@@ -224,7 +224,7 @@ Premier post très subjectif, orienté coup de geule / état des lieux.
 
 C'est donc dans une deuxieme partie que je dévoilerai comment "controller" cet enfer paradisiaque qu'est la **Hype**.
 
-Les solutions à ce bazar innomable, ce que tous le monde attend.
+Les solutions à ce bazar innommable, ce que tous le monde attend.
 
 ...
 
