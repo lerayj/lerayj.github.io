@@ -10,11 +10,11 @@ categories: javascript
 Nous sommes dans une forte période de transition dans le web.
 
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
-Mais j'ai depuis l'impression de voir deux clans; ou tout du moins deux type de developeurs Web:
+Mais j'ai depuis l'impression de voir deux clans; ou tout du moins deux types de developpeurs Web:
 
-Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos avec qui vous sentez ce légerèrement mal à l'aise (pour ne pas dire idiot / dépassé / retard) quand ils vous parlent de leurs dernière impémentation de WebComponent Polymer dans React.
+Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissai forcément u, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
 
-Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classiques que ce soit en php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
+Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classiques que ce soit en Php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
 
 <h2>Welcome back to the WebDev!</h2>
 
@@ -23,7 +23,7 @@ Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classique
 Je suis revenu dans le developement Web il y a quelques mois. 
 J'avais déjà travaillé 2 ou 3 ans auparavant avec Symfony2 et CakePhp, du très classique.
 
-Je vais dans ce billet vous parler de la transition jusqu'a aujourd'hui, en tant que dev <b>Js FullStack</b>.
+Je vais dans ce billet vous parler de la transition jusqu'a aujourd'hui sur du dev <b>Js FullStack</b>.
 
 
 <h2>Un jour je serai le plus grand <del>dresseur</del> hipster</h2>
@@ -63,7 +63,7 @@ Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"
 
 Il va falloir un peu de temps pour s'adapter.
 
-Vous trouverez énormement de bataille sur le Web à son propos. *Pros* / *cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
+Vous trouverez énormement de bataille sur le Web à son propos. *Pros* / *Cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
 
 Au final on aime ou on n'aime pas. A chacun sont avis, pour ma part, **j'adhère**. Mais le sujet n'est pas la.
 
@@ -92,14 +92,14 @@ Ils font la même chose avec des approches différentes, se livre souvent une gu
 
 Et il en sort de nouveaux souvent. Très souvent. Trop souvent.
 
-Passer du temps, s'impliquer dans une techno pour que 2 mois après un petit nouveau vienne voler la vedette et le remplacer...
+Passer du temps, s'impliquer dans une techno pour que 2 mois après un petit nouveau vienne lui voler la vedette et la remplacer...
 
 **Fatiguant non?**
 
-Je ne dénigre pas l'évolution, qui signifie souvent que le language se porte bien, et qui se fait dans tous les environnement.
-Mais plutôt la vitesse à laquel les tendances changent.
+Je ne dénigre pas l'évolution, souvent que le language se porte bien et qui se produit de toute façon dans tous environnement.
+Non; mais plutôt la vitesse à laquel les tendances changent.
 
-Cela permet difficilement de maîtriser **pour de vrai** un outil tous en restant *up-to-date*.
+Cela ne nous permet pas de maîtriser **réellement** un outil tous en restant *up-to-date*.
 
 Bref, ne nous dispersons pas. Voilà en 2 minutes de recherches ce que j'ai trouvé sur Internet à propos des outils de DevWeb en js:
 
@@ -123,21 +123,25 @@ Bref, ne nous dispersons pas. Voilà en 2 minutes de recherches ce que j'ai trou
 	<img src="https://media.giphy.com/media/StdULHPSni728/giphy.gif" style="height: 173px;" />
 </div>
 
-<h4>C'est quoi ce bordel?!</h4> 
+<h4>C'est le chaos.</h4> 
 
 A l'époque, j'avais appris Symfony2, Twig et Doctrine; et <b>Boum</b>, le projet étais "au top".
 
 <h4>Que c'est t-il passé?!</h4>
 
-Maintenant je dois apprendre à utiliser des dizaines de trucs, dont je ne comprend ni le but, ni l'utilité.
-Mais ca il ne faut pas le dire au risque de passer pour un abruti.
+Maintenant je dois apprendre à utiliser des dizaines d'outils, dont je ne comprend ni le but, ni l'utilité.
+Mais ca il ne faut pas le dire au risque de passer pour un has-been.
 
-Tous le Web vante le mérite de ces outils et surtout le gain de *productivité / performances* qu'ils apportent. 
-Si vous voulez faire un bon produit; **il vous les faut**.
+Tous le Web vante leurs mérites de par le gain de *productivité / performances* qu'ils apportent. 
+Si vous voulez avoir une belle stack; **il vous devez les utiliser**.
 
-*Dans un prochain post, je les classerai et expliquerai les principaux leurs buts pour clarifier et démystifier tous ca*
+**FAUX.**
 
-De plus, il est assez difficile de trouver des *ressources "passerelles"* sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un total noob dans la prog!
+Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée.
+
+* Et dans un prochain post, j'expliquerai le rôle de chaque composant et ce q'ils peuvent vous apporter ou non pour clarifier et démystifier tous cela*
+
+De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la prog!
 
 <blockquote>
   <p>
@@ -147,13 +151,16 @@ De plus, il est assez difficile de trouver des *ressources "passerelles"* sur le
      <br />
      - Une todo list.
   </p>
-  <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un old school</cite></footer>
+  <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un Old School Dev</cite></footer>
 </blockquote>
 
 
-Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme, tout cela peut surement paraitre idiot et issu de ma limitation intellectuel, mais je vous assure que quand on arrive dans le "nouveau monde" du developpement Web, **rien**, je dit bien **RIEN** n'est évident. 
+Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme, tout cela peut surement paraitre idiot, mais je vous assure que quand on arrive dans le developpement Web du moment, il y a de quoi être perdu. 
 
-Je soupsonne également beaucoup de gens de n'avoir fait que le *getting started* d'une techno, ne jamais l'avoir vraiment exploité en profondeur; avant de crier au génie...
+Car **rien**, je dit bien **RIEN** n'est évident. 
+
+Je soupçonne beaucoup de développeur d'être des soldats au service de la hype.
+Avoir fait le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeuret crier au génie ne me semble pas être quelque chose de sain. 
 
 Je peux me tromper. Peux être que cette pensée émane de ma jalousie envers ceux qui savent, benchmarkent et connaissent de A à Z un outil avant même que j'en est entendu parler.
 
@@ -173,7 +180,7 @@ Bob est super excité, a déjà installé le nouveau Graal, c'est bon, il n'y a 
 
 > "Wait, c'est quoi exactement? Ca ressemble pas a *Patchouli.js*, le tool que j'ai implémenté la semaine dernière? 
 
-C'est vrai que c'est la même chose que *Patchouli.js* mais ca fonctionne très différament! Bob va encore devoir bouquinner pas mal de doc...
+C'est vrai que c'est la même chose que *Patchouli.js* mais ca fonctionne très différemment! Bob va encore devoir bouquinner pas mal de doc...
 
 Mais Bob veux être cool. Tous le monde dit que *PiouPiou.js* c'est mieux, la théorie des masses ne peux pas se tromper.
 
@@ -189,20 +196,23 @@ Bob retourne sur Hacker News et...
 
 <div style="text-align: center;">
 	<img src="https://media.giphy.com/media/b1ys7yyXBDG0w/giphy.gif">
-	<p>	Et bien <b>Bob</b>, c'est <b>moi</b>.</p>
+	<p>	Et bien <b>Bob</b>, c'étais, c'est et sera (jusqu'a ce que je me soigne complètement) <b>Moi</b>.</p>
 
 </div>
 
 **Dat Twist!**
 
-Et peut-être vous aussi (enfin j'espère que certains ce reconnaitrons!).
+Et peut-être vous aussi!
+Ne le prennez pas mal! J'espère juste ne pas être seul dans cette misère et certains ce reconnaitrons!
 
-Si dans l'histoire je connais au moins l'usage du produit, je ne vous raconte pas le nombre de fois ou je n'ai même pas saisi le but du tool mais tout de même essayer d'implémenter!
+Si dans l'histoire de Bob (ou moi du coup), je connais au moins le but du produit.
+Je ne vous raconte pas le nombre de fois ou je n'avais même pas bien saisi le but de l'outil mais dont j'ai tout de même essayé de l'implémenter!
 *(brainless over 9000)*
 
+Parceque oui la nouveauté c'est exitant. Mais dans le dev, ca peux être très time consuming.
+Le temps que l'on est sensé gagner après la mise en place d'un nouveau système arrive après avoir surmonter un certain point de la *learning curve*. Quand l'évolution va plus vite qu'elle, il y a un problème.
 
 <h2>Next</h2>
-
-Dans une deuxieme partie, je vous parlerai de comment j'essaye d'éviter de tomber en permanence dans cet enfer, quel est la solution à ce foutoir innomable.
-
+On commence à s'étirer en longeur.
+C'est donc dans une deuxieme partie que je raconterai comment "controller" cet enfer paradisiaque qu'est la hype. Les solutions à ce bazar innomable.
 
