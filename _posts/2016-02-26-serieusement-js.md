@@ -12,7 +12,7 @@ Nous sommes dans une forte période de transition dans le web.
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
 Mais j'ai depuis l'impression de voir deux clans; ou tout du moins deux types de developpeurs Web:
 
-Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissai forcément un, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
+Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissez forcément un, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
 
 Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classiques que ce soit en Php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
 
