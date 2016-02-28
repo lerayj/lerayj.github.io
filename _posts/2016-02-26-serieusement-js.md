@@ -36,7 +36,7 @@ Téléchargement, Installation, setup de node.js, swipe sur Chrome, on va Google
 
 <h3>L'écosystème. Such Wow.</h3>
 
-Les technos sont jeunes, des noms de libs/packages rigolos à gogo sur **npm**, des projets sortent super souvent sur **GitHub**,...
+Les technos sont jeunes, des noms de libs/packages rigolos à gogo sur *npm*, des projets sortent super souvent sur *GitHub*,...
 
 **Hacker News** regorge d'articles annoncant la sortie de ces tools/librairies/frameworks.
 Il y en a tous les jours en Front Page: *Chips.js*, *Espelette.js*, *Hammer.js*,... 
@@ -48,7 +48,7 @@ Il y en a tous les jours en Front Page: *Chips.js*, *Espelette.js*, *Hammer.js*,
 
 Avant de passer au coeur du problème, parlons rapidement du *js*. 
 
-Pour ceux qui, comme moi, l'utilisaient uniquement avec **jQuery** pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le langage, il y a de quoi être surpris.
+Pour ceux qui, comme moi, l'utilisaient uniquement avec *jQuery* pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le langage, il y a de quoi être surpris.
 
 Le fonctionnement du langage en lui même est à part; on ne peut pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
 
@@ -65,7 +65,7 @@ Il va falloir un peu de temps pour s'adapter.
 
 Vous trouverez énormement de batailles sur le Web à son propos. *Pros* / *Cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
 
-Au final on aime ou on n'aime pas. A chacun son avis, pour ma part, **j'adhère**. Mais le sujet n'est pas la.
+Au final on aime ou on n'aime pas. A chacun son avis, pour ma part, *j'adhère*. Mais le sujet n'est pas la.
 
 J'ai abordé le Js comme je l'ai fait avec tous les autres languages; par de plus ou moins longues recherches sur Google des best practices ainsi que les outils indispensables qui font l'unanimité dans la communauté.
 
@@ -202,9 +202,9 @@ Le temps que nous sommes censé gagner grâce à un nouveau système n'arrive qu
 
 Et cela peut être plus ou moins long.
 
-Quand l'évolution est plus rapide que le temps nécessaire à atteindre ce fameux capital de compétence, il y a un problème.
+Quand l'évolution est *plus rapide* que le temps nécessaire à atteindre ce *fameux capital de compétence*, il y a un **problème**.
 
-Ou quand la complexité d'utilisation d'éléments ayant pour but de faciliter une réalisation devient supérieur à la réalisation elle même.
+Ou quand la *complexité* d'utilisation d'éléments ayant pour but de **faciliter** une réalisation devient *supérieur* à la réalisation elle même.
 
 <blockquote>
   <p>
@@ -228,5 +228,5 @@ C'est donc dans une deuxieme partie que je dévoilerai comment "contrôler" cet 
 
 Comment ça j'essaye de créer de la hype autour de mon prochain post ?!
 
-Merci a [@Bhullanik](https://twitter.com/Bhullnatik) pour la relecture.
+Merci à [@Bhullnatik](https://twitter.com/Bhullnatik) pour la relecture.
 
