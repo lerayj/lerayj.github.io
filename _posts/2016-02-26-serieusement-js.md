@@ -209,18 +209,23 @@ Si dans l'histoire de Bob (ou moi du coup), je connais au moins le but du produi
 Je ne vous raconte pas le nombre de fois ou je n'avais même pas bien saisi le but de l'outil mais dont j'ai tout de même essayé de l'implémenter!
 *(brainless over 9000)*
 
-Parceque oui la nouveauté c'est exitant. Mais dans le dev, ca peux être très time consuming.
-Le temps que l'on est sensé gagner après la mise en place d'un nouveau système arrive après avoir surmonter un certain point de la *learning curve*. Quand l'évolution va plus vite qu'elle, il y a un problème.
+Parceque oui, la nouveauté, c'est exitant. Mais dans le dev ca peux vite devenir **time consuming**.
+
+Le temps que nous sommes censé ganger grâce à un nouveau système n'arrive que après avoir passé un **certain point** de la **learning curve**.
+
+Et cela est plus ou moins long.
+
+Quand l'évolution est plus rapide que le temps nécessaire à atteindre ce fameux capital de compétence, il y a un problème.
 
 <h2>Next</h2>
 On commence à s'étirer en longeur.
-C'est donc dans une deuxieme partie que je dévoilerai comment "controller" cet enfer paradisiaque qu'est la hype.
+Premier post très subjectif, orienté coup de geule / état des lieux.  
 
-Les solutions à ce bazar innomable. 
+C'est donc dans une deuxieme partie que je dévoilerai comment "controller" cet enfer paradisiaque qu'est la **Hype**.
 
-Ce que tous le monde attend.
+Les solutions à ce bazar innomable, ce que tous le monde attend.
 
 ...
 
-Comment ca j'essaye de créer de la Hype autour du prochain post?!
+Comment ca j'essaye de créer de la Hype autour de mon prochain post?!
 
