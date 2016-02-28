@@ -30,7 +30,7 @@ Je vais dans ce billet vous parler de la transition jusqu'a aujourd'hui sur du d
 
 Depuis *Node*, tous le monde parle js, c'est à la mode, mais je n'ai absolument rien suivi. 
 
-Merde moi aussi je veux être **cool**!
+Moi aussi je veux être **cool**!
 
 Téléchargement, Installation, setup de node.js, swipe sur Chrome, on va Googler un peu comment ca marche.
 
