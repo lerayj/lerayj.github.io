@@ -157,15 +157,15 @@ Je vais vous raconter une petite histoire, celle de Bob:
 
 Bob découvre une nouvelle techno montante, *PiouPiou.js*, 1000 stars sur GitHub en 3 jours, qui vient d'être publiée sur la Front Page de Hacker News. 
 
-> "Cool !" se dit Bob.
+> Cool !
 
 Bob ne sait pas ce que c'est, mais ça lui paraît sexy. Le logo est cool, le website aussi. 
 
-> "Il faut que je teste ! Il me le faut absolument !"
+> Il faut que je teste ! Il me le faut absolument !
 
 Bob est super excité, a déjà installé le nouveau Graal, c'est bon, il n'y a plus qu'à.  
 
-> "Wait, c'est quoi exactement ? Ça ressemble pas à *Patchouli.js*, le tool que j'ai implémenté la semaine dernière ?" 
+> Wait, c'est quoi exactement ? Ça ressemble pas à *Patchouli.js*, le tool que j'ai implémenté la semaine dernière ? 
 
 C'est vrai que c'est la même chose que *Patchouli.js* mais ca fonctionne très différemment ! Bob va encore devoir bouquiner pas mal de documentation...
 
@@ -227,4 +227,6 @@ C'est donc dans une deuxieme partie que je dévoilerai comment "contrôler" cet 
 ...
 
 Comment ça j'essaye de créer de la hype autour de mon prochain post ?!
+
+Merci a [@Bhullanik](https://twitter.com/Bhullnatik) pour la relecture.
 
