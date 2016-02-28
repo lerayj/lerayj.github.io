@@ -12,7 +12,7 @@ Nous sommes dans une forte période de transition dans le web.
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
 Mais j'ai depuis l'impression de voir deux clans; ou tout du moins deux types de developpeurs Web:
 
-Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissai forcément u, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
+Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissai forcément un, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
 
 Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classiques que ce soit en Php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
 
@@ -52,9 +52,9 @@ Pour ceux qui, comme moi, l'utilisai uniquement avec **Jquery** pour des animati
 
 Le fonctionnement du language en lui même est à part; on ne peux pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
 
-Non, le *js* ne ressemble pas vraiment aux autres languages (normal me dirai vous).
+Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** on l'air d'être random, des **callbacks** dans tous les sens...
 
-Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** on l'air d'être random, des **callback** dans tous les sens...
+Non, définitivement le *js* ne ressemble pas vraiment aux autres languages.
 
 <div style="text-align: center">
 <img src="http://i.giphy.com/HwmV5U348FdKM.gif">
@@ -63,7 +63,7 @@ Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"
 
 Il va falloir un peu de temps pour s'adapter.
 
-Vous trouverez énormement de bataille sur le Web à son propos. *Pros* / *Cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
+Vous trouverez énormement de batailles sur le Web à son propos. *Pros* / *Cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
 
 Au final on aime ou on n'aime pas. A chacun sont avis, pour ma part, **j'adhère**. Mais le sujet n'est pas la.
 
@@ -214,5 +214,13 @@ Le temps que l'on est sensé gagner après la mise en place d'un nouveau systèm
 
 <h2>Next</h2>
 On commence à s'étirer en longeur.
-C'est donc dans une deuxieme partie que je raconterai comment "controller" cet enfer paradisiaque qu'est la hype. Les solutions à ce bazar innomable.
+C'est donc dans une deuxieme partie que je dévoilerai comment "controller" cet enfer paradisiaque qu'est la hype.
+
+Les solutions à ce bazar innomable. 
+
+Ce que tous le monde attend.
+
+...
+
+Comment ca j'essaye de créer de la Hype autour du prochain post?!
 
