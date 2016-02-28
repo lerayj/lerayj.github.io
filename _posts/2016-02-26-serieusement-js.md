@@ -52,7 +52,7 @@ Pour ceux qui, comme moi, l'utilisaient uniquement avec *jQuery* pour des animat
 
 Le fonctionnement du langage en lui même est à part; on ne peut pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
 
-Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** ont l'air d'être random, des **callbacks** dans tous les sens...
+Les **scopes** sont étranges, le principe de *closure* wtf, les contextes *"this"* ont l'air d'être random, des *callbacks* dans tous les sens...
 
 Non, définitivement le *js* ne ressemble pas vraiment aux autres languages.
 
