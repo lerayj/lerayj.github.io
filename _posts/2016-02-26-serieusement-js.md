@@ -12,23 +12,23 @@ Nous sommes dans une forte période de transition dans le web.
 Les __SPA__ (Single Page Application) sont à la mode, et c'est vrai que c'est cool.
 Mais j'ai depuis l'impression de voir deux clans; ou tout du moins deux types de developpeurs Web:
 
-Ce que nous appellerons les __"hipsters"__ du code, qui utilisent toutes les dernières technos. Vous en connaissez forcément un, celui qui fais planer ce léger malaise quand il vous parle de ca dernière impémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
+Ce que nous appellerons les *"hipsters"* du code, qui utilisent toutes les dernières technologies. Vous en connaissez forcément un, celui qui fait planer ce léger malaise quand il vous parle de sa dernière implémentation de WebComponent Polymer dans React qui marche comme sur des roulettes.
 
-Opposé aux devs Web __"à l'ancienne"__, avec tous les frameworks MVC classiques que ce soit en Php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément ce lancer dans autre chose.
+Opposés aux devs Web *"à l'ancienne"*, avec tous les frameworks MVC classiques que ce soit en Php (Symfony2, CakePHP,...) ou Ruby (RoR), qui sont à l'aise avec leurs acquis et ne souhaitent pas forcément se lancer dans autre chose.
 
 <h2>Welcome back to the WebDev!</h2>
 
 ![desk](http://i.imgur.com/KyK6HUj.gif){:style="float: left; height:160px;margin-top: 10px;margin-right: 20px;"}
 
-Je suis revenu dans le developement Web il y a quelques mois. 
+Je suis revenu dans le développement Web il y a quelques mois. 
 J'avais déjà travaillé 2 ou 3 ans auparavant avec Symfony2 et CakePhp, du très classique.
 
-Je vais dans ce billet vous parler de la transition jusqu'a aujourd'hui sur du dev <b>Js FullStack</b>.
+Je vais dans ce billet vous parler de la transition jusqu'à aujourd'hui sur du dev <b>Js FullStack</b>.
 
 
 <h2>Un jour je serai le plus grand <del>dresseur</del> hipster</h2>
 
-Depuis *Node*, tous le monde parle js, c'est à la mode, mais je n'ai absolument rien suivi. 
+Depuis *Node*, tout le monde parle js, c'est à la mode, mais je n'ai absolument rien suivi. 
 
 Moi aussi je veux être **cool**!
 
@@ -36,40 +36,40 @@ Téléchargement, Installation, setup de node.js, swipe sur Chrome, on va Google
 
 <h3>L'écosystème. Such Wow.</h3>
 
-Les technos sont jeunes, des noms de libs/packages rigolos à gogo sur **Npm**, des projets sortent super souvent sur **GitHub**,...
+Les technos sont jeunes, des noms de libs/packages rigolos à gogo sur **npm**, des projets sortent super souvent sur **GitHub**,...
 
 **Hacker News** regorge d'articles annoncant la sortie de ces tools/librairies/frameworks.
-Il y en à tous les jours en front page: *Chips.js*, *Espelette.js*, *Hammer.js*,... 
+Il y en a tous les jours en Front Page: *Chips.js*, *Espelette.js*, *Hammer.js*,... 
 
-(ne cherchez pas j'ai mis les premiers mots qui me passai par la tête, mais c'est bien possible qu'ils existent!)
+(ne cherchez pas j'ai mis les premiers mots qui me passaient par la tête, mais c'est bien possible qu'ils existent !)
 
 
-<h3>Le language</h3>
+<h3>Le langage</h3>
 
-Avant de passer au coeur du problème, parlons rapidement du *Js*. 
+Avant de passer au coeur du problème, parlons rapidement du *js*. 
 
-Pour ceux qui, comme moi, l'utilisai uniquement avec **Jquery** pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le language, il y a de quoi être surpris.
+Pour ceux qui, comme moi, l'utilisaient uniquement avec **jQuery** pour des animations et/ou validations, sans jamais vraiment s'interesser ou comprendre le langage, il y a de quoi être surpris.
 
-Le fonctionnement du language en lui même est à part; on ne peux pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
+Le fonctionnement du langage en lui même est à part; on ne peut pas vraiment parler de  paradigme *Objet*  ni d'orientation strictement *procédural*. 
 
-Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** on l'air d'être random, des **callbacks** dans tous les sens...
+Les **scopes** sont étranges, le principe de **closure** wtf, les contextes **"this"** ont l'air d'être random, des **callbacks** dans tous les sens...
 
 Non, définitivement le *js* ne ressemble pas vraiment aux autres languages.
 
 <div style="text-align: center">
 <img src="http://i.giphy.com/HwmV5U348FdKM.gif">
 </div>
-*(Si ca en interesse je pourrai faire un billet sur les principales bizarreries/différences du js qui m'ont fait galérer au début)*
+*(Si ça en intéresse je pourrai faire un billet sur les principales bizarreries/différences du js qui m'ont fait galérer au début)*
 
 Il va falloir un peu de temps pour s'adapter.
 
 Vous trouverez énormement de batailles sur le Web à son propos. *Pros* / *Cons* Js. Certains le trouve trop verbeux, d'autres trop broken, d'autres trop libre, d'autres génial... 
 
-Au final on aime ou on n'aime pas. A chacun sont avis, pour ma part, **j'adhère**. Mais le sujet n'est pas la.
+Au final on aime ou on n'aime pas. A chacun son avis, pour ma part, **j'adhère**. Mais le sujet n'est pas la.
 
-J'ai abordé le Js comme je l'ai fais avec tous les autres languages; par de plus ou moins longues recherches sur Google des best practices ainsi que les outils indispensables qui font l'unanimité dans la communauté.
+J'ai abordé le Js comme je l'ai fait avec tous les autres languages; par de plus ou moins longues recherches sur Google des best practices ainsi que les outils indispensables qui font l'unanimité dans la communauté.
 
-Et c'est la que le **cauchemar commence**. 
+Et c'est là que le **cauchemar commence**. 
 
 
 
@@ -82,7 +82,7 @@ Et c'est la que le **cauchemar commence**.
 
 <h2>Fuck it. Just Fuck it.</h2>
 
-Des outils dans l'univers js, ils y en a des **milliers**, voir **millions**. Beaucoup. Beaucoup trop?
+Des outils dans l'univers js, ils y en a des *milliers*, voir *millions*. Beaucoup. Beaucoup trop ?
 
 >"Et alors? C'est bien non? Ca laisse du choix!" 
 
@@ -92,16 +92,16 @@ Ils font la même chose avec des approches différentes, se livre souvent une gu
 
 Et il en sort de nouveaux souvent. Très souvent. Trop souvent.
 
-Passer du temps, s'impliquer dans une techno pour que 2 mois après un petit nouveau vienne lui voler la vedette et la remplacer...
+Passer du temps, s'impliquer dans une techno pour que 2 mois après une nouvelle vienne lui voler la vedette et la remplacer...
 
-**Fatiguant non?**
+**Fatigant non ?**
 
-Je ne dénigre pas l'évolution, souvent que le language se porte bien et qui se produit de toute façon dans tous environnement.
+Je ne dénigre pas l'évolution, souvent que le language se porte bien et qui se produit de toute façon dans tout environnement.
 Non; mais plutôt la vitesse à laquel les tendances changent.
 
-Cela ne nous permet pas de maîtriser **réellement** un outil tous en restant *up-to-date*.
+Cela ne nous permet pas de maîtriser *réellement* un outil tout en restant *up-to-date*.
 
-Bref, ne nous dispersons pas. Voilà en 2 minutes de recherches ce que j'ai trouvé sur Internet à propos des outils de DevWeb en js:
+Bref, ne nous dispersons pas. Voilà en 2 minutes de recherche ce que j'ai trouvé sur Internet à propos des outils de DevWeb en js:
 
 * Webpack
 * RequireJs
@@ -125,55 +125,55 @@ Bref, ne nous dispersons pas. Voilà en 2 minutes de recherches ce que j'ai trou
 
 <h4>C'est le chaos.</h4> 
 
-A l'époque, j'avais appris Symfony2, Twig et Doctrine; et <b>Boum</b>, le projet étais "au top".
+À l'époque, j'avais appris Symfony2, Twig et Doctrine; et <b>Boum</b>, le projet était "au top".
 
-<h4>Que c'est t-il passé?!</h4>
+<h4>Que s'est t-il passé ?!</h4>
 
-Maintenant je dois apprendre à utiliser des dizaines d'outils, dont je ne comprend ni le but, ni l'utilité.
-Mais ca il ne faut pas le dire au risque de passer pour un has-been.
+Maintenant je dois apprendre à utiliser des dizaines d'outils, dont je ne comprends ni le but, ni l'utilité.
+Mais ça il ne faut pas le dire au risque de passer pour un *has-been*.
 
-Tous le Web vante leurs mérites de par le gain de *productivité / performances* qu'ils apportent. 
-Si vous voulez avoir une belle stack; **il vous devez les utiliser**.
+Tout le Web vante leurs mérites de par le gain de *productivité / performances* qu'ils apportent. 
+Si vous voulez avoir une belle stack; *vous devez les utiliser*.
 
 **FAUX.**
 
-Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée ainsi le rôle de chaque composant, ce qu'ils peuvent vous apporter (ou non) histoire de clarifier et démystifier tous cela.
+Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée ainsi le rôle de chaque composant, ce qu'ils peuvent vous apporter (ou non) histoire de clarifier et démystifier tout cela.
 
-De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la prog!
+De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment se lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la programmation !
 
 
-Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme, tout cela peut surement paraitre idiot, mais je vous assure que quand on arrive dans le developpement Web du moment, il y a de quoi être perdu. 
+Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme, tout cela peut sûrement paraître idiot, mais je vous assure que quand on arrive dans le développement Web du moment, il y a de quoi être perdu. 
 
-Car **rien**, je dit bien **RIEN** n'est évident. 
+Car **rien**, je dis bien **RIEN** n'est évident. 
 
-Je soupçonne beaucoup de développeur d'être des soldats au service de la hype.
-Fait le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeur et déclarer que c'est une "révolution" ne me semble pas être quelque chose de sain. 
+Je soupçonne beaucoup de développeurs d'être des soldats au service de la hype.
+Faire le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeur, et déclarer que c'est une "révolution" ne me semble pas être quelque chose de sain. 
 
-Je peux me tromper. Peux être que cette pensée émane de ma jalousie envers celui qui connais, benchmark et sait utiliser de A à Z un outil avant même que j'en ai entendu parler.
+Je peut me tromper. Peux-être que cette pensée émane de ma jalousie envers celui qui connait, benchmark et sait utiliser de A à Z un outil avant même que j'en ai entendu parler.
 
-<h2>Bob do Hype Web Programming. Bob is smart.</h2>
+<h2>Bob does Hype Web Programming. Bob is smart.</h2>
 
 Je vais vous raconter une petite histoire, celle de Bob:
 
-Bob découvre une nouvelle techno montante, *PiouPiou.js*, 1000 stars sur github en 3 jours, qui viens d'être publié sur la front page de Hacker News. 
+Bob découvre une nouvelle techno montante, *PiouPiou.js*, 1000 stars sur GitHub en 3 jours, qui vient d'être publiée sur la Front Page de Hacker News. 
 
-> "Cool!" se dit Bob.
+> "Cool !" se dit Bob.
 
-Bob ne sais pas ce que c'est, mais ca lui paraît sexy. Le logo est cool, le Website aussi. 
+Bob ne sait pas ce que c'est, mais ça lui paraît sexy. Le logo est cool, le website aussi. 
 
-> "Il faut que je teste! Il me le faut absolument!"
+> "Il faut que je teste ! Il me le faut absolument !"
 
-Bob est super excité, a déjà installé le nouveau Graal, c'est bon, il n'y a plu qu'a.  
+Bob est super excité, a déjà installé le nouveau Graal, c'est bon, il n'y a plus qu'à.  
 
-> "Wait, c'est quoi exactement? Ca ressemble pas a *Patchouli.js*, le tool que j'ai implémenté la semaine dernière? 
+> "Wait, c'est quoi exactement ? Ça ressemble pas à *Patchouli.js*, le tool que j'ai implémenté la semaine dernière ?" 
 
-C'est vrai que c'est la même chose que *Patchouli.js* mais ca fonctionne très différemment! Bob va encore devoir bouquinner pas mal de doc...
+C'est vrai que c'est la même chose que *Patchouli.js* mais ca fonctionne très différemment ! Bob va encore devoir bouquiner pas mal de documentation...
 
-Mais Bob veux être cool. Tous le monde dit que *PiouPiou.js* c'est mieux, la théorie des masses ne peux pas se tromper.
+Mais Bob veut être cool. Tout le monde dit que *PiouPiou.js* c'est mieux, la théorie des masses ne peut pas se tromper.
 
-*3 heures plus tard passé dans la souffrance, Bob a fini*
+*3 heures plus tard passées dans la souffrance, Bob a fini.*
 
-C'est bon! C'est implémenté, fonctionnel, Bob ne comprend pas tout mais bon, ca viendra avec le temps. Maintenant son *Dev Flow* est de nouveau hype!
+C'est bon ! C'est implémenté, fonctionnel, Bob ne comprend pas tout mais bon, ça viendra avec le temps. Maintenant son *dev flow* est de nouveau hype !
 
 Bob est heureux.
 
@@ -183,32 +183,32 @@ Bob retourne sur Hacker News et...
 
 <div style="text-align: center;">
 	<img src="https://media.giphy.com/media/b1ys7yyXBDG0w/giphy.gif">
-	<p>	Et bien <b>Bob</b>, c'étais, c'est et sera (jusqu'a ce que je me soigne complètement) <b>Moi</b>.</p>
+	<p>	Et bien <b>Bob</b>, c'était, c'est et ce sera (jusqu'à ce que je me soigne complètement) <b>moi</b>.</p>
 
 </div>
 
 **Dat Twist!**
 
 Et peut-être vous aussi!
-Ne le prennez pas mal! J'espère juste ne pas être seul dans cette misère et certains ce reconnaitrons!
+Ne le prenez pas mal. J'espère juste ne pas être seul dans cette misère et que certains se reconnaitront!
 
-Si dans l'histoire de Bob (ou moi du coup), je connais au moins le but du produit.
+Dans l'histoire de Bob (ou moi du coup) je connais au moins le but du tool.
 Je ne vous raconte pas le nombre de fois ou je n'avais même pas bien saisi le but de l'outil mais dont j'ai tout de même essayé de l'implémenter!
 *(brainless over 9000)*
 
-Parceque oui, la nouveauté, c'est exitant. Mais dans le dev ca peux vite devenir **time consuming**.
+Parce que oui, la nouveauté, c'est excitant. Mais dans le dev ça peut vite devenir **chronophage**.
 
-Le temps que nous sommes censé ganger grâce à un nouveau système n'arrive que après avoir passé un **certain point** de la **learning curve**.
+Le temps que nous sommes censé gagner grâce à un nouveau système n'arrive que après avoir passé un **certain point** de la **courbe d'apprentissage**.
 
-Et cela peux être plus ou moins long.
+Et cela peut être plus ou moins long.
 
 Quand l'évolution est plus rapide que le temps nécessaire à atteindre ce fameux capital de compétence, il y a un problème.
 
-Ou quand la complexité d'utilisation d'éléments ayant pour but de faciliter une réalisation deviens supérieur à la réalisation elle même.
+Ou quand la complexité d'utilisation d'éléments ayant pour but de faciliter une réalisation devient supérieur à la réalisation elle même.
 
 <blockquote>
   <p>
-    - [...] du coup je me setup un petit Gulp qui transpile mon CoffeeScript et mon SASS avant de bundle avec Webpack mon app. Easy.
+    - [...] du coup je me suis setup un petit Gulp qui transpile mon CoffeeScript et mon SASS avant de bundle avec Webpack mon app. Easy.
     <br />
      - Ha... Ouais, ouais je vois... C'est quoi ton projet?
      <br />
@@ -222,11 +222,9 @@ Ou quand la complexité d'utilisation d'éléments ayant pour but de faciliter u
 On commence à s'étirer en longeur.
 Premier post très subjectif, orienté coup de geule / état des lieux.  
 
-C'est donc dans une deuxieme partie que je dévoilerai comment "controller" cet enfer paradisiaque qu'est la **Hype**.
-
-Les solutions à ce bazar innommable, ce que tous le monde attend.
+C'est donc dans une deuxieme partie que je dévoilerai comment "contrôler" cet enfer paradisiaque qu'est la *Hype*, les solutions à ce bazar innommable.
 
 ...
 
-Comment ca j'essaye de créer de la Hype autour de mon prochain post?!
+Comment ça j'essaye de créer de la hype autour de mon prochain post ?!
 
