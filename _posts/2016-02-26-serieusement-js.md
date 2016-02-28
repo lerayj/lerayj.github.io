@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Badass.Js (Part 1)
+title:      Chaos.Js (Part 1)
 date:       2016-02-26 12:31:19
-summary:    Passer au Web mode js, analyse de l'environnement et impressions fait par un gars normal pas très futé.
+summary:    Passer au Web mode js, analyse de l'environnement et impressions.
 categories: javascript
 ---
 
