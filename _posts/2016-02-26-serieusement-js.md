@@ -143,17 +143,6 @@ Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idé
 
 De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la prog!
 
-<blockquote>
-  <p>
-    - [...] du coup je me setup un petit Gulp qui transpile mon CoffeeScript et mon SASS avant de bundle avec Webpack mon app. Easy.
-    <br />
-     - Ha... Ouais, ouais je vois... C'est quoi ton projet?
-     <br />
-     - Une todo list.
-  </p>
-  <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un Old School Dev</cite></footer>
-</blockquote>
-
 
 Pour les vieux de la vieille du js, qui ont suivi l'évolution de l'écosysteme, tout cela peut surement paraitre idiot, mais je vous assure que quand on arrive dans le developpement Web du moment, il y a de quoi être perdu. 
 
@@ -217,7 +206,21 @@ Et cela est plus ou moins long.
 
 Quand l'évolution est plus rapide que le temps nécessaire à atteindre ce fameux capital de compétence, il y a un problème.
 
+Ou quand la complexité d'utilisation d'éléments ayant pour but de faciliter une réalisation deviens supérieur à la réalisation elle même.
+
+<blockquote>
+  <p>
+    - [...] du coup je me setup un petit Gulp qui transpile mon CoffeeScript et mon SASS avant de bundle avec Webpack mon app. Easy.
+    <br />
+     - Ha... Ouais, ouais je vois... C'est quoi ton projet?
+     <br />
+     - Une todo list.
+  </p>
+  <footer><cite title="Un WebDev Hypster à un old school">Un WebDev Hypster à un Old School Dev</cite></footer>
+</blockquote>
+
 <h2>Next</h2>
+
 On commence à s'étirer en longeur.
 Premier post très subjectif, orienté coup de geule / état des lieux.  
 
