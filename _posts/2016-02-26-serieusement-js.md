@@ -137,9 +137,7 @@ Si vous voulez avoir une belle stack; **il vous devez les utiliser**.
 
 **FAUX.**
 
-Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée.
-
-* Et dans un prochain post, j'expliquerai le rôle de chaque composant et ce q'ils peuvent vous apporter ou non pour clarifier et démystifier tous cela*
+Dans la deuxième partie de ce sujet, j'exposerai mon point de vu sur cette idée ainsi le rôle de chaque composant, ce q'ils peuvent vous apporter (ou non) histoire de clarifier et démystifier tous cela*
 
 De plus, il est assez difficile de trouver des *ressources "passerelles"*  sur le web expliquant comment ce lancer dans ce monde (le Web 2.0 ou 3.0 ou n'importe quel autre terme de marketeux) quand on est ni un Js guy depuis 3 ans, ni un débutant total dans la prog!
 
