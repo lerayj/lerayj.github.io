@@ -149,7 +149,7 @@ Car **rien**, je dis bien **RIEN** n'est évident.
 Je soupçonne beaucoup de développeurs d'être des soldats au service de la hype.
 Faire le *getting started* d'une techno sans jamais l'avoir vraiment exploité en profondeur, et déclarer que c'est une "révolution" ne me semble pas être quelque chose de sain. 
 
-Je peut me tromper. Peux-être que cette pensée émane de ma jalousie envers celui qui connait, benchmark et sait utiliser de A à Z un outil avant même que j'en ai entendu parler.
+Je peux me tromper. Peux-être que cette pensée émane de ma jalousie envers celui qui connait, benchmark et sait utiliser de A à Z un outil avant même que j'en ai entendu parler.
 
 <h2>Bob does Hype Web Programming. Bob is smart.</h2>
 
@@ -228,5 +228,5 @@ C'est donc dans une deuxieme partie que je dévoilerai comment "contrôler" cet 
 
 Comment ça j'essaye de créer de la hype autour de mon prochain post ?!
 
-Merci à [@Bhullnatik](https://twitter.com/Bhullnatik) pour la relecture.
+Merci à [@Bhullnatik](http://bhullnatik.com/) pour la relecture.
 
